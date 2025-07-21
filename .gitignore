@@ -1,0 +1,10 @@
+datasets/*
+runs/*
+.idea
+.vscode
+*.log
+*.pyc
+*.pt
+*.onnx
+.DS_Store
+__pycache__/
